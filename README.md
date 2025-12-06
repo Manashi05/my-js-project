@@ -34,4 +34,4 @@ README.md # Project documentation
 
 Here is a preview of the game:
 
-![Tic-Tac-Toe Screenshot](Tic_Tac_Toe.png)  
+![Tic-Tac-Toe Screenshot](Tic_Tac_Toe.jpg)  
