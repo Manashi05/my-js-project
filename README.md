@@ -25,10 +25,10 @@ A simple **Tic-Tac-Toe** game using HTML, CSS, and JavaScript. Two players can p
 
 ## File Structure
 
-index.html # Main HTML file
-style.css # CSS styling
-script.js # JavaScript game logic
-README.md # Project documentation
+index.html # Main HTML file --
+style.css # CSS styling --
+script.js # JavaScript game logic --
+README.md # Project documentation 
 
 ## Screenshots / Demo
 
