@@ -1,37 +1,42 @@
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe Web Game
 
-A simple **Tic-Tac-Toe** game using HTML, CSS, and JavaScript. Two players can play on the same device.
+A simple interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project focuses on implementing game logic, DOM manipulation, and user interaction.
 
 ## Features
+- Two-player gameplay (X and O)
+- Real-time winner detection (rows, columns, diagonals)
+- Draw detection when the board is full
+- Reset and New Game functionality
+- Clean and responsive UI
 
-- Two-player gameplay (X and O).
-- Detects winner and announces it.
-- Detects draw if all boxes are filled.
-- Reset or start a new game anytime.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
 
-## How to Play
-
-1. Click an empty box to place your mark (O starts first).
-2. Players take turns automatically.
-3. Winner is announced when a player gets 3 marks in a row, column, or diagonal.
-4. Draw is announced if all boxes are filled with no winner.
-5. Use **Reset** or **New Game** to restart.
+## How It Works
+- Players take turns clicking on the grid
+- JavaScript tracks moves and updates the UI dynamically
+- Winning conditions are checked after each move using predefined patterns
 
 ## How to Run
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Start playing  
 
-1. Download or clone the repository.
-2. Open `index.html` in a browser.
-3. Start playing!
+## Project Structure
+- `index.html` – Structure of the game  
+- `style.css` – Styling and layout  
+- `script.js` – Game logic and interactions  
 
-## File Structure
+## What I Learned
+- Handling user interactions using JavaScript
+- Implementing game logic and condition checking
+- Manipulating the DOM dynamically
+- Structuring a small frontend project
 
-index.html # Main HTML file --
-style.css # CSS styling --
-script.js # JavaScript game logic --
-README.md # Project documentation 
+## Demo
+(Add your GitHub Pages link here if available)
 
-## Screenshots / Demo
-
-Here is a preview of the game:
-
+## Preview
 ![Tic-Tac-Toe Screenshot](Tic_Tac_Toe.jpg)  
